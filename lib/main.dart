@@ -1,4 +1,4 @@
-import 'package:flexfuelcalculator/keyboard.dart';
+import 'package:flex_fuel_calculator/keyboard.dart';
 import 'package:flutter/material.dart';
 import 'dart:io' show Platform;
 import 'package:shared_preferences/shared_preferences.dart';
